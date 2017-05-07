@@ -20,3 +20,12 @@ img {
 
 /*------Body------*/
 
+h2 {
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+    margin: auto;
+    display: block;
+    background-color: #ffcc99;
+    color: #ffffff;
+    max-width: 50%;
+}
