@@ -22,7 +22,7 @@ img {
 
 h2 {
     font-family: 'Slabo 27px', serif;
-    text-align: center;
+    text-align: left;
     margin: auto;
     margin-top: 10px;
     display: block;
@@ -32,3 +32,11 @@ h2 {
      padding: 3px;
 }
 
+
+/*------Media Queries------*/
+
+@media
+    .wrap {
+
+        min-height: calc (100vh - 89px);
+    }
